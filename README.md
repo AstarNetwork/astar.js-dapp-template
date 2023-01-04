@@ -9,13 +9,19 @@ More documentation and examples on [wiki](https://github.com/astarNetwork/astar.
 
 - Install dependencies
 
-**📝NOTE: @polkadod/api version is pinned**
+```
+yarn
+```
+- Start the app
 
-```bash
-yarn add @polkadot/api@^6.5.1 @astar-network/astar-api@beta
+```
+yarn start
 ```
 
-- Create API instance
+# Usage
+
+- App.tsx is the entry point of the app. It has the following code for connecting to the node:
+
 
 ```ts
 import { ApiPromise } from '@polkadot/api';

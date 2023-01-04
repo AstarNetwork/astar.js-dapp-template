@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@astar-network/astar-api": "^0.1.8",
+    "@astar-network/astar-api": "^0.1.12",
     "@polkadot/api": "^9.7.1",
     "@polkadot/api-augment": "^9.7.1",
     "@testing-library/jest-dom": "^5.16.5",

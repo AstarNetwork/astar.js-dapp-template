@@ -24,41 +24,41 @@
     jsonpointer "^5.0.0"
     leven "^3.1.0"
 
-"@astar-network/astar-api-derive@0.1.8":
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/@astar-network/astar-api-derive/-/astar-api-derive-0.1.8.tgz#8bbe93dcf60829f8a19fb62f5fbe65755b6eb152"
-  integrity sha512-Q1PEYz+fsBVSnuPF8h+popDmJdZJtJcFXgV8pZry6dFhJ/llfCMNRbYveSrqQ2+vYLL5RLVy6FfBFW71LHztjQ==
+"@astar-network/astar-api-derive@0.1.12":
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/@astar-network/astar-api-derive/-/astar-api-derive-0.1.12.tgz#c3f2e69e1ef4b050960133860ebb0a9269cb6efb"
+  integrity sha512-KHSRODHdlo2y7NgyoSkV8GByRv7nXakPIPUwF/ntWoll5k4wGG2EMukULmXJShkwOZ2Pf0w0Ck6nkiZOVVRH5w==
   dependencies:
-    "@astar-network/astar-types" "0.1.8"
+    "@astar-network/astar-types" "0.1.12"
     "@babel/runtime" "^7.10.2"
     "@open-web3/orml-types" "^1.0.2-0"
     "@polkadot/api-derive" "^9.2.4"
 
-"@astar-network/astar-api@^0.1.8":
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/@astar-network/astar-api/-/astar-api-0.1.8.tgz#d738be3e475e73ade9f3c54b2a3f37b12c426d8d"
-  integrity sha512-oQQlIG5swLSZagLPlu9I2kw9VVYLfNUdkLbOHPT6uU2jglrQwwXNZHQHG2eJ7kETQvjdN3Wt7Gn4J5LSQ+M/Bw==
+"@astar-network/astar-api@^0.1.12":
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/@astar-network/astar-api/-/astar-api-0.1.12.tgz#ccfdc969246da8796f6e857c82d0d5420349ab62"
+  integrity sha512-GbmmQqH3e3mUFdAiMudTDgGqfLtm9tINrc/byuNWnJlxZodzLq1saVMjNufIbn+J7XxnpK98PqJ0bQVzCk6M3A==
   dependencies:
-    "@astar-network/astar-api-derive" "0.1.8"
-    "@astar-network/astar-types" "0.1.8"
+    "@astar-network/astar-api-derive" "0.1.12"
+    "@astar-network/astar-types" "0.1.12"
     "@babel/runtime" "^7.10.2"
     "@open-web3/orml-api-derive" "^1.0.2-0"
     "@polkadot/api" "^9.2.4"
 
-"@astar-network/astar-type-definitions@0.1.8":
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/@astar-network/astar-type-definitions/-/astar-type-definitions-0.1.8.tgz#67d92760c59ad810186f5234ceed323f0fefc4d7"
-  integrity sha512-YOWXeDfpX6TvSIv3Bz7QLMNuptU3YksMBikAy8DJDdWhnDUEUuKvXrjkGL43M3g9RKphj6YEGlgqY8ChrXPU4A==
+"@astar-network/astar-type-definitions@0.1.12":
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/@astar-network/astar-type-definitions/-/astar-type-definitions-0.1.12.tgz#214cb4c861049a5776878e501c54d4445295c270"
+  integrity sha512-FHq/ES1GUFMy98TzfZDseRH/YoxlVWsbkbx00mBy6NVQlznOcqLm3D1OGJtz+V7CJPk3LA37ThnHuS4jzSCFmw==
   dependencies:
     "@babel/runtime" "^7.10.2"
     "@open-web3/orml-type-definitions" "^1.0.2-0"
 
-"@astar-network/astar-types@0.1.8":
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/@astar-network/astar-types/-/astar-types-0.1.8.tgz#ce4b533827678ad724b8ff97d85c2d0cbf360c16"
-  integrity sha512-nb7W+sES+C2Roy+e7BMva8CRNX5wkeK0aoJ5U78xButxrCpOAMnKXc7lNSGcULKmpcHp0I/vw+srqjgffnJtHw==
+"@astar-network/astar-types@0.1.12":
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/@astar-network/astar-types/-/astar-types-0.1.12.tgz#deb26137ad8b58dd7e9cf564d9bcfd29e0801c46"
+  integrity sha512-TOJrgK8gsYU8HimuQUps9hwedDTfopCDIhfCKBH3tgKSAic+ttWueTYPj3lvE+epTVMV/c3dKutFZ4Tnyk6cGA==
   dependencies:
-    "@astar-network/astar-type-definitions" "0.1.8"
+    "@astar-network/astar-type-definitions" "0.1.12"
     "@babel/runtime" "^7.10.2"
     "@open-web3/api-mobx" "^1.0.2-0"
     "@open-web3/orml-types" "^1.0.2-0"
